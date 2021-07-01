@@ -1,5 +1,5 @@
 PyMuPDF==1.18.14
-matplotlib==3.4.2
+matplotlib==3.3.2
 numpy==1.19.5
 opencv-python==4.4.0.46
 path==15.0.0
